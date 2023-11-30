@@ -1,0 +1,16 @@
+name: Zip and Ship
+run-name: ${{ github.actor }} is zipping the modpack
+on: [push]
+jobs:
+  To-Zip:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: vimtor/action-zip@v1.1
+        with:
+          files: icon.png, manifest.json, README.md
+          dest: modpack.zip
+      - uses: actions/upload-artifact@v1.1
+        with:
+          name: my-artifact
+          path: ${{ github.workspace }}/result.zip
