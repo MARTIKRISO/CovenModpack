@@ -8,6 +8,10 @@ Maple penis
 
 ## Changelog
 
+### v1.0.3
+
+Updated mods
+
 ### v1.0.2
 
 Added some reserved slot mods for QOL

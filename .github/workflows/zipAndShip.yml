@@ -15,5 +15,5 @@ jobs:
           dest: modpack.zip
       - uses: actions/upload-artifact@v3
         with:
-          name: my-artifact
+          name: modpack-artifact
           path: ${{ github.workspace }}/modpack.zip
