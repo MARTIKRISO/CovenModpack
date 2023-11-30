@@ -8,6 +8,10 @@ Maple penis
 
 ## Changelog
 
+### v1.0.2
+
+Added some reserved slot mods for QOL
+
 ### v1.0.1
 
 Updated MoreCompany to 1.5.0
