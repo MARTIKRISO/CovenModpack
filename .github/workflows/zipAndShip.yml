@@ -3,7 +3,7 @@ run-name: ${{ github.actor }} is zipping the modpack
 on: 
   push:
     branches:
-      - master
+      - main
 jobs:
   To-Zip:
     runs-on: ubuntu-latest
