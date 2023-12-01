@@ -8,6 +8,14 @@ Maple penis
 
 ## Changelog
 
+### v1.0.5
+
+Added some more QOL and non-gamechanging mods
+
+### v1.0.4
+
+Removed the separate inventory mods as they didn't work
+
 ### v1.0.3
 
 Updated mods
