@@ -8,6 +8,10 @@ Maple penis
 
 ## Changelog
 
+### v1.0.6
+
+Added Coroner
+
 ### v1.0.5
 
 Added some more QOL and non-gamechanging mods
