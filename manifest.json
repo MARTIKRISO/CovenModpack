@@ -1,12 +1,12 @@
 {
   "name": "TheCovenModpack",
-  "version_number": "1.0.6",
+  "version_number": "1.0.7",
   "website_url": "https://github.com/MARTIKRISO/CovenModpack",
   "description": "Modpack for Belletrice's Coven",
   "dependencies": [
     "2018-LC_API-2.1.1",
-    "MoreLethal-Pinger-3.1.5",
-    "notnotnotswipez-MoreCompany-1.5.1",
+    "MoreLethal-Pinger-3.1.6",
+    "notnotnotswipez-MoreCompany-1.6.0",
     "AllToasters-SpectateEnemies-1.3.0",
     "Renegades-WalkieUse-1.2.3",
     "Renegades-FlashlightToggle-1.3.1",
@@ -17,6 +17,9 @@
     "anormaltwig-LateCompany-1.0.4",
     "FlipMods-LetMeLookDown-1.0.1",
     "tinyhoot-ShipLoot-1.0.0",
-    "EliteMasterEric-Coroner-1.1.0"
+    "EliteMasterEric-Coroner-1.1.0",
+    "sunnobunno-YippeeMod-1.2.1",
+    "Thorlar-HealthStation-1.0.1",
+    "Bobbie-LethalRebinding-1.0.0"
 	]
 }

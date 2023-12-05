@@ -8,6 +8,10 @@ Maple penis
 
 ## Changelog
 
+### v1.0.7
+
+Updated mods and added a few new ones
+
 ### v1.0.6
 
 Added Coroner
