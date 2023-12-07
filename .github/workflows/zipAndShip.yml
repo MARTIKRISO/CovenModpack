@@ -12,6 +12,7 @@ jobs:
       - uses: vimtor/action-zip@v1.1
         with:
           files: icon.png manifest.json README.md config/
+          recursive: false
           dest: modpack.zip
       - uses: actions/upload-artifact@v3
         with:
