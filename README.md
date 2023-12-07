@@ -8,6 +8,10 @@ Maple penis
 
 ## Changelog
 
+### v1.0.9
+
+Added some cool new mods :P
+
 ### v1.0.8
 
 Added HDLethalCompany and the config to make it work
