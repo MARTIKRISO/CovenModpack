@@ -1,6 +1,7 @@
 import re
 
 global data
+
 with open("util\\list_from_thunderstore.txt", "r") as f:
     data = f.readlines()
 
