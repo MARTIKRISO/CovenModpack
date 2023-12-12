@@ -8,6 +8,11 @@ Maple penis
 
 ## Changelog
 
+## v1.1.0
+
+Removed mods not updated to Lethal Company v45
+Added some new mods
+
 ### v1.0.9
 
 Added some cool new mods :P
