@@ -1,9 +1,9 @@
 name: Zip and Ship
 run-name: ${{ github.actor }} is zipping the modpack
 on: 
-  push:
-    branches:
-      - ${{ github.event.repository.default_branch }}
+  push: 
+    branches: 
+      - '**'
 jobs:
   To-Zip:
     runs-on: ubuntu-latest
