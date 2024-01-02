@@ -8,6 +8,10 @@ Maple penis
 
 ## Changelog
 
+## v1.1.1
+
+Updated and added new mods, including TheCovenMod by taarna23
+
 ## v1.1.0
 
 Removed mods not updated to Lethal Company v45
