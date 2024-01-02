@@ -1,6 +1,6 @@
 {
   "name": "TheCovenModpack",
-  "version_number": "1.1.2",
+  "version_number": "1.1.3",
   "website_url": "https://github.com/MARTIKRISO/CovenModpack",
   "description": "Modpack for Belletrice's Coven",
   "dependencies": [
@@ -22,8 +22,7 @@
      "Rune580-LethalCompany_InputUtils-0.4.4", 
      "FlipMods-LetMeLookDown-1.0.1", 
      "Drakorle-MoreItems-1.0.1", 
-     "RugbugRedfern-Skinwalkers-2.0.1", 
-     "Pooble-LCBetterSaves-1.6.1", 
+     "RugbugRedfern-Skinwalkers-2.0.1",
      "FlipMods-HotbarPlus-1.4.7", 
      "FlipMods-ReservedItemSlotCore-1.7.5", 
      "FlipMods-ReservedFlashlightSlot-1.5.5", 
