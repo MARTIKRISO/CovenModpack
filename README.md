@@ -8,6 +8,12 @@ Maple penis
 
 ## Changelog
 
+## v1.1.2
+
+Updated 2 mods
+Changed icon
+Pack version for stream on 02.01.2024
+
 ## v1.1.1
 
 Updated and added new mods, including TheCovenMod by taarna23
