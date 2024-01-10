@@ -8,6 +8,10 @@ Maple penis
 
 ## Changelog
 
+## v1.1.4
+
+Added a few new mods, updated old mods
+
 ## v1.1.3 Hotfix
 
 Removed Better Saves
