@@ -1,6 +1,6 @@
 {
   "name": "TheCovenModpack",
-  "version_number": "1.1.5",
+  "version_number": "1.1.6",
   "website_url": "https://github.com/MARTIKRISO/CovenModpack",
   "description": "Modpack for Belletrice's Coven",
   "dependencies": [
@@ -35,6 +35,7 @@
     "taffyko-NameplateTweaks-1.0.6", 
     "Jamil-Corporate_Restructure-1.0.6", 
     "Norman-GlowStickSuits-1.0.4", 
-    "Jordo-NeedyCats-1.1.1"
+    "Jordo-NeedyCats-1.1.1", 
+    "FlipMods-TooManyEmotes-1.7.8"
 	]
 }

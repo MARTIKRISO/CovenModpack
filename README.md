@@ -8,6 +8,10 @@ Maple penis
 
 ## Changelog
 
+## v1.1.6
+
+Added custom cats and more emotes
+
 ## v1.1.5
 
 Updated mods, added cats and more suits
