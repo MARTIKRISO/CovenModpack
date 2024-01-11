@@ -8,6 +8,10 @@ Maple penis
 
 ## Changelog
 
+## v1.1.5
+
+Updated mods, added cats and more suits
+
 ## v1.1.4
 
 Added a few new mods, updated old mods
