@@ -8,6 +8,10 @@ Maple penis
 
 ## Changelog
 
+## 1.1.9.1compat
+
+Modified the pack to be compatible with LCVR
+
 ## v1.1.8
 
 Regular update
