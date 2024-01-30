@@ -8,6 +8,14 @@ Maple penis
 
 ## Changelog
 
+## 1.1.10 - Requires reinstall
+
+Mod updates, removed british bug, added SCP Lab
+
+## 1.1.9 - LCVR Compatibility
+
+Modified the pack to be compatible with LCVR
+
 ## v1.1.8
 
 Regular update
