@@ -8,6 +8,10 @@ Maple penis
 
 ## Changelog
 
+## 1.1.11 - Requires reinstall
+
+Removed SCP Lab, added some client-side mods to replace lost functionality, added LethalThings, disabled roombas
+
 ## 1.1.10 - Requires reinstall
 
 Mod updates, removed british bug, added SCP Lab
