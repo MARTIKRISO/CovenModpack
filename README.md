@@ -8,6 +8,10 @@ Maple penis
 
 ## Changelog
 
+## 1.1.13
+
+Added AdvancedCompany and updated mods
+
 ## 1.1.12
 
 Added and updated mods
